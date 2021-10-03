@@ -1,0 +1,52 @@
+h1,h2, h3, h4, h5, h6{
+	font-weight:;
+	margin:0 0 15px;
+}
+.alignleft{
+	float: left;
+	margin-right:15px;
+}
+.alignright{
+	float:right;
+	margin-left: 0 auto 15px;
+}
+.aligncenter{
+	display:block;
+	height:auto;
+} 
+body{
+	font-family: 'Roboto', sans-serif;
+	font-weight:300;
+}
+a{
+
+}
+a:hover{
+	text-decoration:none;
+}
+a:focus{
+
+}
+
+.section-padding {
+	padding: 80px 0;
+}
+
+.singel-circul-progresbar {
+	text-align: center;
+	margin-top: 50px;
+}
+.circul-progres-wrap {
+  position: relative;
+  margin-bottom: 15px;
+}
+.progress-presentage {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 40px;
+  margin-top: -20px;
+}
